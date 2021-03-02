@@ -1,0 +1,10 @@
+__pycache__/
+.git/
+.idea/
+app.py
+cat.jpg
+clientApp.py
+howtorun.txt
+manifest.yml
+Procfile
+runtime.txt
